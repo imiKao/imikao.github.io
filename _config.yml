@@ -23,7 +23,7 @@ timezone: Asia/Taipei
 
 title: Aidan Kao   # the main title
 
-tagline: 探勘與迭代   # it will display as the sub-title
+tagline: 探勘。迭代。長期主義者   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/assets/img/icon/myicon2.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
