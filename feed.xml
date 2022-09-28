@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Aidan Kao</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-09-28T13:34:10+08:00</updated>
+  <updated>2022-09-28T13:54:02+08:00</updated>
   <author>
     <name>Aidan Kao</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/TestTitle/" rel="alternate" type="text/html" title="TestTitle" />
     <published>2022-09-28T13:00:00+08:00</published>
   
-    <updated>2022-09-28T13:00:00+08:00</updated>
+    <updated>2022-09-28T13:53:53+08:00</updated>
   
     <id>http://localhost:4000/posts/TestTitle/</id>
     <content src="http://localhost:4000/posts/TestTitle/" />
@@ -34,9 +34,7 @@
 
   
     
-    <category term="Data" />
-    
-    <category term="Science" />
+    <category term="Data_Science" />
     
   
 
