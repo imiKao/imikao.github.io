@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Aidan Kao</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-09-28T15:17:01+08:00</updated>
+  <updated>2022-09-28T22:40:19+08:00</updated>
   <author>
     <name>Aidan Kao</name>
     <uri>http://localhost:4000/</uri>
@@ -20,23 +20,21 @@
 
   
   <entry>
-    <title>TestTitle</title>
-    <link href="http://localhost:4000/posts/TestTitle/" rel="alternate" type="text/html" title="TestTitle" />
-    <published>2022-09-28T13:00:00+08:00</published>
+    <title>機器學習如何入門？</title>
+    <link href="http://localhost:4000/posts/why_ml_is_hard_to_do/" rel="alternate" type="text/html" title="機器學習如何入門？" />
+    <published>2022-09-28T22:18:00+08:00</published>
   
-    <updated>2022-09-28T13:00:00+08:00</updated>
+    <updated>2022-09-28T22:18:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/TestTitle/</id>
-    <content src="http://localhost:4000/posts/TestTitle/" />
+    <id>http://localhost:4000/posts/why_ml_is_hard_to_do/</id>
+    <content src="http://localhost:4000/posts/why_ml_is_hard_to_do/" />
     <author>
       <name>Aidan Kao</name>
     </author>
 
   
     
-    <category term="Data" />
-    
-    <category term="Science" />
+    <category term="DATA_SCIENCE" />
     
   
 
@@ -48,10 +46,17 @@
 
 
 
-      Test Title
+      
+  許多時候在資料科學的領域會碰到機器學習(Machine Learning)的專業，但機器學習如何入門呢？或許從心態上的自我檢視可以幫助自己快速行動⋯⋯
 
-test contexts
 
+為何我覺得難以實際運用機器學習？
+
+在接觸資料科學也有一段時間了，其實從一開始我就是往機器學習的方向前進，但後來在工作了幾年後，多半還是在數據與統計的層面進行，但在機器學習的實用與學習方面似乎有點停滯不前，除了只有在簡單的幾的模型上面玩來玩去以外，最重要的是障礙多在很難用於實際應用上面。
+
+事實上網路上一些簡單的資料集用起來總是可以訓練出不錯的模型，但在實際工作場合上的數據集，除了資料取得不易以外，資料與實際行為的不匹配或邏輯錯誤的數據往往佔據我非常大的心力，加上很多時候沒有很具體的問題點是需要通過機器學習來應用，使用上面就顯得較少。
+
+但上述的原因其實多在我對於機器學習的認知上還是一知半解，當我無法真正的產生好奇心去探求「...
     </summary>
   
 
