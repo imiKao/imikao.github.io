@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Aidan Kao</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-09-28T23:10:58+08:00</updated>
+  <updated>2022-09-29T23:54:19+08:00</updated>
   <author>
     <name>Aidan Kao</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,180 @@
 
   
   <entry>
+    <title>如何定義機器學習的問題</title>
+    <link href="http://localhost:4000/posts/how_to_define_problem/" rel="alternate" type="text/html" title="如何定義機器學習的問題" />
+    <published>2022-08-02T00:00:00+08:00</published>
+  
+    <updated>2022-08-02T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/how_to_define_problem/</id>
+    <content src="http://localhost:4000/posts/how_to_define_problem/" />
+    <author>
+      <name>Aidan Kao</name>
+    </author>
+
+  
+    
+    <category term="DATA_SCIENCE" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  初學者應該聚焦的第一個就是「問題」，日常生活中我們可以很清楚地發現有一些痛點是我們無法使用既有的人為經驗或比較簡單的方法論來解決，此時就非常需要機器學習的幫助，但在使用機器學習的幫助之前，我們應該如何具體定義機器學習的問題呢？本篇是我在閱讀“How to define your machine learning problem”一文後的思考與心得記錄。
+
+
+在我的工作經驗當中，幾乎每個專案都必然有一個初始的目標，而這些目標背後都隱藏一到多個待解決的問題，差異只在專案成員是否在一開始認真剖析這個問題。而很弔詭的是，許多時候在一開始人們（包括我）似乎都知道問題點在哪，但隨著專案的進行，許多細部項目的展開，很容易在一段時間之後走偏，逐漸遠離一開始真正的問題點。
+
+我想並非是大家忘記了，而是在一開始沒有一個很具體的去定義與剖析問題點是什麼？值不值得我們去解決？需要花多少資源去解決？當大...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>機器學習中的不同群體</title>
+    <link href="http://localhost:4000/posts/ml_10_group/" rel="alternate" type="text/html" title="機器學習中的不同群體" />
+    <published>2022-05-20T00:00:00+08:00</published>
+  
+    <updated>2022-05-20T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/ml_10_group/</id>
+    <content src="http://localhost:4000/posts/ml_10_group/" />
+    <author>
+      <name>Aidan Kao</name>
+    </author>
+
+  
+    
+    <category term="DATA_SCIENCE" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  我一直以為機器學習領域多是資料科學家、資料分析師或演算法工程師等等的職位而已，當然也是我眼光比較狹隘，事實上在這個領域還有許多不同的群體，在“Find your machine learning tribe”一文中也介紹有10種機器學習領域中的群體，本篇主要針對其中幾個我比較有興趣的群體進行介紹與記錄下閱讀後“Find your machine learning tribe”的心得。
+
+
+一直以來我都習慣以資料分析相關的工作作為機器學習入門的敲門磚，因為我一直存在著狹隘的認知，認為只有數據分析才是機器學習這個領域的重點，殊不知其實還有許許多多不同的群體都屬於這個領域並做著不同的貢獻。
+
+其實想想也是，機器學習本身就是一門綜合性、跨學科的領域，應運而生的應該會在這其中有許許多多的面向是需要人們去進行研究，像是演算法模型就需要對數學有深厚底子的專家進行研究，數據解讀就更不用說了，是...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>初學機器學習應該聚焦在哪？</title>
+    <link href="http://localhost:4000/posts/start_learn_ml_should_focus/" rel="alternate" type="text/html" title="初學機器學習應該聚焦在哪？" />
+    <published>2022-04-28T00:00:00+08:00</published>
+  
+    <updated>2022-04-28T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/start_learn_ml_should_focus/</id>
+    <content src="http://localhost:4000/posts/start_learn_ml_should_focus/" />
+    <author>
+      <name>Aidan Kao</name>
+    </author>
+
+  
+    
+    <category term="DATA_SCIENCE" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  在學習機器學習的旅程中會發現這個領域之大，幾乎難以全部駕馭，但對於一位初學者來說應該聚焦（focus）在哪呢？本文主要以閱讀“How to think about machine learning”後的思考來記錄下我系統性學習機器學習的心得，重新的明確定位學習機器學習的方向。
+
+
+前言
+
+先說結論，初學者應該明確的關注在「問題」與「解決方法」。事實上我在使用Top-Down思維學習機器學習一文中提到，我的認知機器學習本質上是一門「解決問題」的專業，那麼就很好的理解“How to think about machine learning”為何說明初學者就應該聚焦在「問題」與「解決方法」上。
+
+機器學習的「問題」
+
+機器學習的問題主要可以敘述為：
+
+
+  Find a model or procedure that makes best use of historical data...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>使用Top-Down思維學習機器學習</title>
+    <link href="http://localhost:4000/posts/learn_ml_using_topdown/" rel="alternate" type="text/html" title="使用Top-Down思維學習機器學習" />
+    <published>2022-04-04T22:18:00+08:00</published>
+  
+    <updated>2022-04-04T22:18:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/learn_ml_using_topdown/</id>
+    <content src="http://localhost:4000/posts/learn_ml_using_topdown/" />
+    <author>
+      <name>Aidan Kao</name>
+    </author>
+
+  
+    
+    <category term="DATA_SCIENCE" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  為什麼在學習Machine Learning的路上會這麼辛苦？覺得有很多浩瀚無垠的知識需要學習，微積分、線性代數、統計學⋯⋯，但或許是我們用錯方法進行學習。本篇我以“Why Machine Learning Does Not Have to Be So Hard”這篇文章進行閱讀、學習與思考如何用正確且有效率的方式來學習Machine Learning。
+
+
+前言
+
+「自我限制的信念」幾乎長久以來都存在我的生活中，像是工作加薪、感情生活，乃至於休閒活動，當然也包括在學習資料科學這條路上。會讓我意識到這件事的原因是我發現一路學習以來，我不管上多少課、看多少文章，都總會有種力不從心的感覺，總是無法在日常工作中隨心運用。
+
+當進度緩慢甚至停滯時，我想是時候來反思一下問題點到底在哪？除了我因為日常資料分析、可視化畫面製作等常態工作所導致的「無聊」以外，在實際上想進一步利用機器學習進行分...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>機器學習如何入門？</title>
     <link href="http://localhost:4000/posts/why_ml_is_hard_to_do/" rel="alternate" type="text/html" title="機器學習如何入門？" />
-    <published>2022-09-28T22:18:00+08:00</published>
+    <published>2022-03-03T22:18:00+08:00</published>
   
-    <updated>2022-09-28T22:18:00+08:00</updated>
+    <updated>2022-03-03T22:18:00+08:00</updated>
   
     <id>http://localhost:4000/posts/why_ml_is_hard_to_do/</id>
     <content src="http://localhost:4000/posts/why_ml_is_hard_to_do/" />
