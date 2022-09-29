@@ -5,7 +5,7 @@ categories: [DATA_SCIENCE]
 tag: [machine_learning]
 ---
 
-> 在學習機器學習的旅程中會發現這個領域之大，幾乎難以全部駕馭，但對於一位初學者來說應該聚焦（focus）在哪呢？本文主要以閱讀“[How to think about machine learning](https://machinelearningmastery.com/think-machine-learning/)”後的思考來記錄下我系統性學習機器學習的心得，重新的明確定位學習機器學習的方向。
+> 在學習機器學習的旅程中會發現這個領域之大，幾乎難以全部駕馭，但對於一位初學者來說應該聚焦（focus）在哪呢？本文主要以閱讀“[How to think about machine learning](https://machinelearningmastery.com/think-machine-learning/){:target="_blank"}”後的思考來記錄下我系統性學習機器學習的心得，重新的明確定位學習機器學習的方向。
 
 ### **前言**
 

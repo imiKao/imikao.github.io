@@ -5,7 +5,7 @@ categories: [DATA_SCIENCE]
 tag: [machine_learning]
 ---
 
-> 為什麼在學習Machine Learning的路上會這麼辛苦？覺得有很多浩瀚無垠的知識需要學習，微積分、線性代數、統計學⋯⋯，但或許是我們用錯方法進行學習。本篇我以“[Why Machine Learning Does Not Have to Be So Hard](https://machinelearningmastery.com/youre-wrong-machine-learning-not-hard/)”這篇文章進行閱讀、學習與思考如何用正確且有效率的方式來學習Machine Learning。
+> 為什麼在學習Machine Learning的路上會這麼辛苦？覺得有很多浩瀚無垠的知識需要學習，微積分、線性代數、統計學⋯⋯，但或許是我們用錯方法進行學習。本篇我以“[Why Machine Learning Does Not Have to Be So Hard](https://machinelearningmastery.com/youre-wrong-machine-learning-not-hard/){:target="_blank"}”這篇文章進行閱讀、學習與思考如何用正確且有效率的方式來學習Machine Learning。
 
 ### **前言**
 
@@ -21,7 +21,7 @@ tag: [machine_learning]
 
 而我也在工作之後總是以這樣的心態來學習各種我想學的事物，但⋯⋯結果如何？結果就是我大部分想學的都失敗了，不是半途而廢，不然就是學了用不上，到目前為止機器學習就有這種味道，只是我平常還略有接觸，所以才沒消失在我的生活中。
 
-但“[Why Machine Learning Does Not Have to Be So Hard](https://machinelearningmastery.com/youre-wrong-machine-learning-not-hard/)”這篇文章卻說機器學習的學習不該是這樣子做的，因為這樣子做不僅沒有效率，而且頗為無趣，基本上會加速消磨原本的學習熱情。
+但“[Why Machine Learning Does Not Have to Be So Hard](https://machinelearningmastery.com/youre-wrong-machine-learning-not-hard/){:target="_blank"}”這篇文章卻說機器學習的學習不該是這樣子做的，因為這樣子做不僅沒有效率，而且頗為無趣，基本上會加速消磨原本的學習熱情。
 
 而這種從基礎開始一步一步學起的方式就叫做Bottom-Up的思維，更具體的來說，Bottom-Up的概念是以一種Logical way（邏輯性的方式）將各種基礎一層一層的堆疊上去，它的概念多用於沒有前面的基礎是無法理解與學會後面的知識的學科，像是數學、化學等等。
 
@@ -74,5 +74,5 @@ tag: [machine_learning]
 
 ### **直接去學習吧！**
 
-在“[Why Machine Learning Does Not Have to Be So Hard](https://machinelearningmastery.com/youre-wrong-machine-learning-not-hard/)”中也提到利用Top-Down來學習可以讓我們更快速、更有效率，且更有趣，或許可以讓我擺脫「無聊」或「無法具體的應用」的困境，那麼就直接去學習吧！
+在“[Why Machine Learning Does Not Have to Be So Hard](https://machinelearningmastery.com/youre-wrong-machine-learning-not-hard/){:target="_blank"}”中也提到利用Top-Down來學習可以讓我們更快速、更有效率，且更有趣，或許可以讓我擺脫「無聊」或「無法具體的應用」的困境，那麼就直接去學習吧！
 

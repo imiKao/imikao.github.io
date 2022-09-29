@@ -5,11 +5,11 @@ categories: [DATA_SCIENCE]
 tag: [machine_learning]
 ---
 
-> 初學者應該聚焦的第一個就是「問題」，日常生活中我們可以很清楚地發現有一些痛點是我們無法使用既有的人為經驗或比較簡單的方法論來解決，此時就非常需要機器學習的幫助，但在使用機器學習的幫助之前，我們應該如何具體定義機器學習的問題呢？本篇是我在閱讀“[How to define your machine learning problem](https://machinelearningmastery.com/how-to-define-your-machine-learning-problem/)”一文後的思考與心得記錄。
+> 初學者應該聚焦的第一個就是「問題」，日常生活中我們可以很清楚地發現有一些痛點是我們無法使用既有的人為經驗或比較簡單的方法論來解決，此時就非常需要機器學習的幫助，但在使用機器學習的幫助之前，我們應該如何具體定義機器學習的問題呢？本篇是我在閱讀“[How to define your machine learning problem](https://machinelearningmastery.com/how-to-define-your-machine-learning-problem/){:target="_blank"}”一文後的思考與心得記錄。
 
 在我的工作經驗當中，幾乎每個專案都必然有一個初始的目標，而這些目標背後都隱藏一到多個待解決的問題，差異只在專案成員是否在一開始認真剖析這個問題。而很弔詭的是，許多時候在一開始人們（包括我）似乎都知道問題點在哪，但隨著專案的進行，許多細部項目的展開，很容易在一段時間之後走偏，逐漸遠離一開始真正的問題點。
 
-我想並非是大家忘記了，而是在一開始沒有一個很具體的去定義與剖析問題點是什麼？值不值得我們去解決？需要花多少資源去解決？當大家幾乎都是將全部精力花在各種子任務時，心中原本認定的這個目標與問題點逐漸被模糊掉了。我想或許關鍵點在於一開始具體的定義問題點吧！本文主要目的在於記錄下我閱讀“[How to define your machine learning problem](https://machinelearningmastery.com/how-to-define-your-machine-learning-problem/)”後的思考與心得紀錄。
+我想並非是大家忘記了，而是在一開始沒有一個很具體的去定義與剖析問題點是什麼？值不值得我們去解決？需要花多少資源去解決？當大家幾乎都是將全部精力花在各種子任務時，心中原本認定的這個目標與問題點逐漸被模糊掉了。我想或許關鍵點在於一開始具體的定義問題點吧！本文主要目的在於記錄下我閱讀“[How to define your machine learning problem](https://machinelearningmastery.com/how-to-define-your-machine-learning-problem/){:target="_blank"}”後的思考與心得紀錄。
 
 ![qwoman](/assets/img/data_science/qwoman.png){: w="400" h="300"}
 

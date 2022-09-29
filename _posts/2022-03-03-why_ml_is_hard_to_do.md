@@ -25,13 +25,13 @@ tag: [machine_learning]
 
 學習的方式與教材對於每個人來說是有很大不同的，有的方式適合我，有的會讓我造成反效果。於是我憑著想找一個能夠讓我真正的理解這門學問的信念，去找相關的文章或課程，還真的被我找到了。
 
-事實上坊間很多的入門課程或書籍，但多半對我來說過於「學科」化，我並非想要了解知識點，而是我想了解真正理解這門學問的人的「內心話」。於是我找到了一個Blog叫「[Machine Learning Mastery](https://machinelearningmastery.com)」，這主要是完整介紹所有跟機器學習有關的文章，重點是內容多以比較白話但又不零碎的方式來敘述重點，對於我想要使用長期主義者學習機器學習的方式來說是相當適合的。
+事實上坊間很多的入門課程或書籍，但多半對我來說過於「學科」化，我並非想要了解知識點，而是我想了解真正理解這門學問的人的「內心話」。於是我找到了一個Blog叫「[Machine Learning Mastery](https://machinelearningmastery.com){:target="_blank"}」，這主要是完整介紹所有跟機器學習有關的文章，重點是內容多以比較白話但又不零碎的方式來敘述重點，對於我想要使用長期主義者學習機器學習的方式來說是相當適合的。
 
 ![摒除自我限制的信念](/assets/img/data_science/hope.png){: w="400" h="300"}
 
 ### **摒除自我限制的信念**
 
-Machine Learning Mastery有這麼一篇[文章](https://machinelearningmastery.com/what-is-holding-you-back-from-your-machine-learning-goals/)，很具體的說明了許多時候我們無法真正的踏入機器學習的領域，除了我上面說到的問題點外，許多時候都是自我產生了疑問與抗拒，而永遠無法真正的進入。
+Machine Learning Mastery有這麼一篇[文章](https://machinelearningmastery.com/what-is-holding-you-back-from-your-machine-learning-goals/){:target="_blank"}，很具體的說明了許多時候我們無法真正的踏入機器學習的領域，除了我上面說到的問題點外，許多時候都是自我產生了疑問與抗拒，而永遠無法真正的進入。
 
 事實上以我而言，雖然我踏入了資料科學有一段時間，但我總覺得機器學習還是有點高大上，不是很親民的一門專業，尤其當我困在無法在實務上很好的運用所造成的迷惘中，更是與機器學習產生了一種無法言喻的隔閡。這也使我產生了自我限制的信念，而無法花時間去進一步學習與成長。
 
