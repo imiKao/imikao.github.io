@@ -1,6 +1,6 @@
 ---
 title: "機器學習如何入門？"
-date: 2022-09-28 22:18:00 +0800
+date: 2022-03-03 22:18:00 +0800
 categories: [DATA_SCIENCE]
 tag: [machine_learning]
 ---
