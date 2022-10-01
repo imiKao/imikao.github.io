@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Aidan Kao</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-09-30T07:49:04+08:00</updated>
+  <updated>2022-10-01T23:11:35+08:00</updated>
   <author>
     <name>Aidan Kao</name>
     <uri>http://localhost:4000/</uri>
@@ -20,14 +20,62 @@
 
   
   <entry>
+    <title>真正的「需求 」</title>
+    <link href="http://localhost:4000/posts/real-requirement/" rel="alternate" type="text/html" title="真正的「需求 」" />
+    <published>2022-09-03T00:00:00+08:00</published>
+  
+    <updated>2022-09-03T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/real-requirement/</id>
+    <content src="http://localhost:4000/posts/real-requirement/" />
+    <author>
+      <name>Aidan Kao</name>
+    </author>
+
+  
+    
+    <category term="READING" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  某天經過誠品，剛好一眼就看到這本名叫《放棄減肥》的書，書名很聳動，卻不可否認的吸人眼球。於是就買下來，直到這幾天把它讀完。
+
+
+在《放棄減肥》中，提到了自然而然的生活方式，也提到了身體自我調適，這中間最重要的是給身體一個權利讓它自我發現需求，才能進行自我調適。這與我近期一直在思考的另一件事有很密切的相關。我的工作很多時候需要做可視化介面讓使用者使用，這其中需要花很多時間了解使用者的「需求」，沒錯，「需求」就是我近期一直在思考的事情。
+
+就像使用者對於不同的需求會有不同的視覺化介面呈現，身體也會對自己的需求有所了解，這篇我不多談胖子與瘦子相關的話題，而是進一步推展到「需求」對我的影響。
+
+
+
+我的需求時常被自己忽略
+
+前陣子發生了一些事，使得我對自己展開了很深刻的思考，很多時候我把視角放在第三方的角度來看自己，發現了許多過去沒發現的事情。
+
+其中一項自我發現的事情就是，我似乎忽略...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>如何定義機器學習的問題</title>
-    <link href="http://localhost:4000/posts/how_to_define_problem/" rel="alternate" type="text/html" title="如何定義機器學習的問題" />
+    <link href="http://localhost:4000/posts/how-to-define-problem/" rel="alternate" type="text/html" title="如何定義機器學習的問題" />
     <published>2022-08-02T00:00:00+08:00</published>
   
     <updated>2022-08-02T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/how_to_define_problem/</id>
-    <content src="http://localhost:4000/posts/how_to_define_problem/" />
+    <id>http://localhost:4000/posts/how-to-define-problem/</id>
+    <content src="http://localhost:4000/posts/how-to-define-problem/" />
     <author>
       <name>Aidan Kao</name>
     </author>
@@ -60,14 +108,58 @@
 
   
   <entry>
+    <title>摒除自我限制的信念</title>
+    <link href="http://localhost:4000/posts/remove-self-limitation/" rel="alternate" type="text/html" title="摒除自我限制的信念" />
+    <published>2022-07-18T00:00:00+08:00</published>
+  
+    <updated>2022-07-18T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/remove-self-limitation/</id>
+    <content src="http://localhost:4000/posts/remove-self-limitation/" />
+    <author>
+      <name>Aidan Kao</name>
+    </author>
+
+  
+    
+    <category term="READING" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  在立志成為一位長期主義者的同時，我發現了一件很難發現但卻影響深遠的事情，它是一個念頭，一個會自我拒絕的念頭，這個念頭用比較正式的說法就是「自我限制的信念」(Limiting-Beliefs)。本文參考《性格修正：如何突破你的原生性格》一書與《Dissolving limiting beliefs》這篇文章所進行自我限制的心得與發想。
+
+
+自我限制來自於曾經的「傷痛」
+
+說是傷痛或許有些過頭，事實上可能在別人看來，你發生過的事只是個「小事」，然而就是這種小事在經歷長久時間的積累，成為了我們真正的「傷痛」。
+
+隨著年紀越來越大，我發現包括我在內的很多成人，在面對自己的父輩時，都還是會有一種小孩看大人的感覺。而這種情況如果發生在經歷過父母不可動搖的權威教育下長大的人，會發展出另一種現象：對父母唯唯諾諾或不敢抵抗。說好聽一點是孝順，世俗一點就是所謂的媽寶。
+
+當然媽寶在我的定義上面不僅...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>機器學習中的不同群體</title>
-    <link href="http://localhost:4000/posts/ml_10_group/" rel="alternate" type="text/html" title="機器學習中的不同群體" />
+    <link href="http://localhost:4000/posts/ten-group-in-ml/" rel="alternate" type="text/html" title="機器學習中的不同群體" />
     <published>2022-05-20T00:00:00+08:00</published>
   
     <updated>2022-05-20T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/ml_10_group/</id>
-    <content src="http://localhost:4000/posts/ml_10_group/" />
+    <id>http://localhost:4000/posts/ten-group-in-ml/</id>
+    <content src="http://localhost:4000/posts/ten-group-in-ml/" />
     <author>
       <name>Aidan Kao</name>
     </author>
@@ -101,13 +193,13 @@
   
   <entry>
     <title>初學機器學習應該聚焦在哪？</title>
-    <link href="http://localhost:4000/posts/start_learn_ml_should_focus/" rel="alternate" type="text/html" title="初學機器學習應該聚焦在哪？" />
+    <link href="http://localhost:4000/posts/start-learn-ml-focus-what/" rel="alternate" type="text/html" title="初學機器學習應該聚焦在哪？" />
     <published>2022-04-28T00:00:00+08:00</published>
   
     <updated>2022-04-28T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/start_learn_ml_should_focus/</id>
-    <content src="http://localhost:4000/posts/start_learn_ml_should_focus/" />
+    <id>http://localhost:4000/posts/start-learn-ml-focus-what/</id>
+    <content src="http://localhost:4000/posts/start-learn-ml-focus-what/" />
     <author>
       <name>Aidan Kao</name>
     </author>
@@ -140,92 +232,6 @@
 
 
   Find a model or procedure that makes best use of historical data...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>使用Top-Down思維學習機器學習</title>
-    <link href="http://localhost:4000/posts/learn_ml_using_topdown/" rel="alternate" type="text/html" title="使用Top-Down思維學習機器學習" />
-    <published>2022-04-04T22:18:00+08:00</published>
-  
-    <updated>2022-04-04T22:18:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/learn_ml_using_topdown/</id>
-    <content src="http://localhost:4000/posts/learn_ml_using_topdown/" />
-    <author>
-      <name>Aidan Kao</name>
-    </author>
-
-  
-    
-    <category term="DATA_SCIENCE" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  為什麼在學習Machine Learning的路上會這麼辛苦？覺得有很多浩瀚無垠的知識需要學習，微積分、線性代數、統計學⋯⋯，但或許是我們用錯方法進行學習。本篇我以“Why Machine Learning Does Not Have to Be So Hard”這篇文章進行閱讀、學習與思考如何用正確且有效率的方式來學習Machine Learning。
-
-
-前言
-
-「自我限制的信念」幾乎長久以來都存在我的生活中，像是工作加薪、感情生活，乃至於休閒活動，當然也包括在學習資料科學這條路上。會讓我意識到這件事的原因是我發現一路學習以來，我不管上多少課、看多少文章，都總會有種力不從心的感覺，總是無法在日常工作中隨心運用。
-
-當進度緩慢甚至停滯時，我想是時候來反思一下問題點到底在哪？除了我因為日常資料分析、可視化畫面製作等常態工作所導致的「無聊」以外，在實際上想進一步利用機器學習進行分...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>機器學習如何入門？</title>
-    <link href="http://localhost:4000/posts/why_ml_is_hard_to_do/" rel="alternate" type="text/html" title="機器學習如何入門？" />
-    <published>2022-03-03T22:18:00+08:00</published>
-  
-    <updated>2022-03-03T22:18:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/why_ml_is_hard_to_do/</id>
-    <content src="http://localhost:4000/posts/why_ml_is_hard_to_do/" />
-    <author>
-      <name>Aidan Kao</name>
-    </author>
-
-  
-    
-    <category term="DATA_SCIENCE" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  許多時候在資料科學的領域會碰到機器學習(Machine Learning)的專業，但機器學習如何入門呢？或許從心態上的自我檢視可以幫助自己快速行動⋯⋯
-
-
-為何我覺得難以實際運用機器學習？
-
-在接觸資料科學也有一段時間了，其實從一開始我就是往機器學習的方向前進，但後來在工作了幾年後，多半還是在數據與統計的層面進行，但在機器學習的實用與學習方面似乎有點停滯不前，除了只有在簡單的幾的模型上面玩來玩去以外，最重要的是障礙多在很難用於實際應用上面。
-
-事實上網路上一些簡單的資料集用起來總是可以訓練出不錯的模型，但在實際工作場合上的數據集，除了資料取得不易以外，資料與實際行為的不匹配或邏輯錯誤的數據往往佔據我非常大的心力，加上很多時候沒有很具體的問題點是需要通過機器學習來應用，使用上面就顯得較少。
-
-但上述的原因其實多在我對於機器學習的認知上還是一知半解，當我無法真正的產生好奇心去探求「...
     </summary>
   
 
